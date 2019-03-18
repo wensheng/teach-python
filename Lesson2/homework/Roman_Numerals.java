@@ -68,13 +68,6 @@ class Roman_Numerals{
     
     // 10 magic-8 ball
     String[] magic8s = {
-      "It is certain", 
-      "It is decidedly so",
-      "Without a doubt",
-      "Yes - definitely",
-      "You may rely on it",
-      "As I see it, yes",
-      "Most likely",
       "Reply hazy, try again",
       "Ask again later",
       "Better not tell you now",
